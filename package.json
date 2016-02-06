@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/designfrontier/hawking/issues"
   },
-  "homepage": "https://github.com/designfrontier/hawking"
+  "homepage": "https://github.com/designfrontier/hawking",
+  "engines": {
+  	"node": ">4.0.0"
+  }
 }
