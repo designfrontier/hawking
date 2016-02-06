@@ -8,8 +8,6 @@ const args = process.argv
     , startTime = process.hrtime()
     , runner = cp.spawn(args[2], args.slice(3));
 
-console.log(args[2], args.slice(3));
-
 let returnValue;
 
 runner.stdout.on('data', (data) => {
