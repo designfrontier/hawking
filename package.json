@@ -14,5 +14,13 @@
   "dependencies": {
     "chalk": "^1.1.1"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/designfrontier/hawking.git"
+  },
+  "bugs": {
+    "url": "https://github.com/designfrontier/hawking/issues"
+  },
+  "homepage": "https://github.com/designfrontier/hawking"
 }
